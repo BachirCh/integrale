@@ -931,7 +931,8 @@ table.alt tbody tr td {
         margin: 0; }
       .testimonials .content .author .image {
         margin-right: 2rem;
-        width: 20%; }
+        // width: 20%;
+        flex: 1 0 20%; }
         .testimonials .content .author .image img {
           border-radius: 100%;
           max-width: 100%; }
